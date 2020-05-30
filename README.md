@@ -6,3 +6,4 @@ Topics
 
 
 1. Explainable AI
+2. Data Science with Streamlit (in Portuguese)
